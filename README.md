@@ -22,6 +22,9 @@ Simon is a retro memory game that challenges players to repeat a growing sequenc
 - One mistake ends the game
 - Try to reach the highest level possible!
 
+### 📺 Video Tutorial
+For a detailed walkthrough on how the game works, check out this YouTube tutorial: https://youtu.be/1Yqj76Q4jJ4?si=EJ0VLPLAwmvfe5r3
+
 ## 🎮 Play the Game
 
 **[👉 PLAY NOW](https://gurveersingh8806.github.io/Simon-Game/)**
